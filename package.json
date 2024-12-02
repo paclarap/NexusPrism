@@ -1,0 +1,13 @@
+{
+    "name": "nexusprism",
+    "version": "0.1.0",
+    "description": "Context transformation and interpretation",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo "No tests specified yet""
+    },
+    "keywords": ["nexus", "context", "development"],
+    "author": "paclarap",
+    "license": "MIT"
+}
